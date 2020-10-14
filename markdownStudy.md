@@ -1,5 +1,21 @@
+# Typora使用Tips
+***
+## Typora快捷键
+**进入/退出源码模式**		 Ctrl+/
 
 
+
+
+
+
+
+
+
+
+
+***
+***
+***
 # 基本语法
 
 ***
@@ -26,6 +42,12 @@
 
 
 
+[这是一个链接](https://www.bilibili.com/)
+
+
+
+
+
 
 
 
@@ -39,6 +61,13 @@
 `这是一个标签`
 
 
+
+
+
+
+
+
+
 ***
 ***
 ***
@@ -46,7 +75,7 @@
 
 ***
 
-* 插入数学公式时，可以使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现。
+* 插入数学公式时，可以使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现，如：
 
 
 $$
@@ -55,10 +84,18 @@ $$
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
 \end{vmatrix}
-${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
+{\style{visibility:hidden}{(x+1)(x+1)}}
 $$
 $ E = mc^2 $
 $ \boxed{E=mc^2} $
 $ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $
 
- 
+
+
+## Tex基本语法
+ 下标：				$ x_i $
+ 上标：				$ x^2 $
+ 多重上下标：     $ x^ {y^z}$
+ 分式：				$ \frac ab $
+ 积分：				$ \int_a^b f(x)$
+ 各种符号：		$ \int, \sum,      $
