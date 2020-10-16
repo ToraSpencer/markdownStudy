@@ -93,9 +93,50 @@ $ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $
 
 
 ## Tex基本语法
- 下标：				$ x_i $
- 上标：				$ x^2 $
- 多重上下标：     $ x^ {y^z}$
- 分式：				$ \frac ab $
- 积分：				$ \int_a^b f(x)$
- 各种符号：		$ \int, \sum,      $
+*	这是一条行内数学公式 $ a+b $
+*	这是一条居中数学公式
+$$
+a+b
+$$
+*	公式内换行用\\\
+$$
+1+2+3\\
+	=3+3
+$$
+*	下标：				$ x_i $
+*	上标：				$ x^2 $
+*	多重上下标：     $ x^ {y^z}$
+*	分式：				$ \frac{x+y}{y+z} $
+*	积分：				$ \int_a^b f(x)$
+*	各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
+
+
+## 运算符
+$$
+\times, \int, \sum,
+$$
+
+
+
+
+ ## 矩阵
+
+*	矩阵
+$$
+\begin{bmatrix} 0 & -i \\ i & 0 \end{bmatrix}\\
+$$
+*	矩阵公式
+$$
+\begin{bmatrix} 1 & 0 \\ 0 & 1\end{bmatrix}
+\begin{bmatrix} 1 & 2 \\ 3 & 4\end{bmatrix}
+=\begin{bmatrix} 1 & 2 \\ 3 & 4\end{bmatrix}
+$$
+*	行列式
+$$
+\begin{vmatrix} a & b \\ c & d \end{vmatrix}
+$$
+*	范数
+
+$$
+\begin{Vmatrix} i & 0 \\ 0 & -i \end{Vmatrix}
+$$
