@@ -109,6 +109,7 @@ $$
 *	分式：				$ \frac{x+y}{y+z} $
 *	积分：				$ \int_a^b f(x)$
 *	各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
+*	常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
 
 
 ## 运算符
@@ -139,4 +140,20 @@ $$
 
 $$
 \begin{Vmatrix} i & 0 \\ 0 & -i \end{Vmatrix}
+$$
+
+
+## 公式格式
+### 对齐
+*	使用aligned关键字，在需要对齐的字符前面加上"&"
+$$
+\begin{aligned}
+&A.\ 1&B.\ 2\\
+&C.\ 3&D.\ 4
+\end{aligned}
+$$
+$$
+\begin{aligned}
+令A_1&=\lbrace 取到的零件来自甲机床\rbrace\\ A_2&=\lbrace取到的零件来自乙机床\rbrace\\ B&=\lbrace取到的零件是废品\rbrace 
+\end{aligned}
 $$
