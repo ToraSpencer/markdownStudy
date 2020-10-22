@@ -1,9 +1,17 @@
-# Typora使用Tips
+# **markdown笔记**
 ***
+
+# Typora使用Tips
+
+
 ## Typora快捷键
+
 **进入/退出源码模式**		 Ctrl+/
+**页面放大**		ctrl + shift + + 
+**页面缩小**		ctrl + shift + -
 
-
+## Typora其他操作
+*	右键 → 插入，可以插入图片表格等对象。
 
 
 
@@ -108,9 +116,10 @@ $$
 *	多重上下标：     $ x^ {y^z}$
 *	分式：				$ \frac{x+y}{y+z} $
 *	积分：				$ \int_a^b f(x)$
-*	各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
-<<<<<<< HEAD
-=======
+* 各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
+
+  <<<<<<< HEAD
+  =======
 *	常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
 >>>>>>> d3b4712b39294a811b7817d4008dfc3961755b40
 
