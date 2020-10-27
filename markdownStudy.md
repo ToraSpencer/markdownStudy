@@ -65,10 +65,9 @@
 # HTML 元素
 * 不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。
 * 目前支持的 HTML 元素有：<kbd> <b> <i> <em> <sup> <sub> 等 
-使用<kbd>来显示键盘文本<kbd>Ctrl</kbd>，<kbd>Alt</kbd>，<kbd>Shift</kbd>
-`这是一个标签`
-
-
+*	使用<kbd>来显示键盘文本<kbd>Ctrl</kbd>，<kbd>Alt</kbd>，<kbd>Shift</kbd>
+*	`这是一个标签`
+*	<font color=#0099ff size=7 face="黑体">HTML实现的7号蓝色黑体字</font>
 
 
 
@@ -111,18 +110,21 @@ $$
 1+2+3\\
 	=3+3
 $$
-*	下标：				$ x_i $
-*	上标：				$ x^2 $
-*	多重上下标：     $ x^ {y^z}$
-*	分式：				$ \frac{x+y}{y+z} $
-*	积分：				$ \int_a^b f(x)$
+* 下标：				$ x_i $
+
+* 上标：				$ x^2 $
+
+* 多重上下标：     $ x^ {y^z}$
+
+* 分式：				$ \frac{x+y}{y+z} $
+
+* 积分：				$ \int_a^b f(x)$
+
 * 各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
 
-  <<<<<<< HEAD
-  =======
-*	常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
->>>>>>> d3b4712b39294a811b7817d4008dfc3961755b40
+* 常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
 
+  
 
 ## 运算符
 $$
@@ -153,8 +155,7 @@ $$
 $$
 \begin{Vmatrix} i & 0 \\ 0 & -i \end{Vmatrix}
 $$
-<<<<<<< HEAD
-=======
+
 
 
 ## 公式格式
