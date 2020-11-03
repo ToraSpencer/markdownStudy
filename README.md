@@ -128,7 +128,7 @@ $$
 
 ## 运算符
 $$
-\times, \int, \sum,
+\times, \int, \sum, \pm
 $$
 
 
@@ -172,4 +172,3 @@ $$
 令A_1&=\lbrace 取到的零件来自甲机床\rbrace\\ A_2&=\lbrace取到的零件来自乙机床\rbrace\\ B&=\lbrace取到的零件是废品\rbrace 
 \end{aligned}
 $$
->>>>>>> d3b4712b39294a811b7817d4008dfc3961755b40
