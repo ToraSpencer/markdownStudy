@@ -120,7 +120,7 @@ $$
 
 * 积分：				$ \int_a^b f(x)$
 
-* 各种帽子：		$ \hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
+* 各种帽子：		$ \dot{A},\hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
 
 * 常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
 
@@ -128,7 +128,7 @@ $$
 
 ## 运算符
 $$
-\times, \int, \sum, \pm
+\cdot \times \int \sum \pm
 $$
 
 
