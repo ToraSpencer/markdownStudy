@@ -26,16 +26,6 @@
 ***
 # 基本语法
 
-***
-
-### 这是一个三级标题
-
-## 这是一个二级标题
-
-# 这是一个一级标题
-
-
-
 *这是一行斜体文字*
 
 **这是一行加粗文字**
@@ -133,7 +123,6 @@ $$
 
 
 
-
  ## 矩阵
 
 *	矩阵
@@ -151,11 +140,9 @@ $$
 \begin{vmatrix} a & b \\ c & d \end{vmatrix}
 $$
 *	范数
-
 $$
 \begin{Vmatrix} i & 0 \\ 0 & -i \end{Vmatrix}
 $$
-
 
 
 ## 公式格式
@@ -167,8 +154,20 @@ $$
 &C.\ 3&D.\ 4
 \end{aligned}
 $$
+
 $$
 \begin{aligned}
 令A_1&=\lbrace 取到的零件来自甲机床\rbrace\\ A_2&=\lbrace取到的零件来自乙机床\rbrace\\ B&=\lbrace取到的零件是废品\rbrace 
 \end{aligned}
 $$
+
+
+# 图片
+*	直接
+![](.\images\tiger.jpg)
+
+*	指定尺寸、对齐。
+ <img src=".\\images\\tiger.jpg" width = "300" height = "200" alt="图片名称" align= 'right' />
+
+ *	指定比例
+ <img src=".\\images\\tiger.jpg" width = "50%" height = "50%" alt="图片名称" />
