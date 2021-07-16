@@ -123,6 +123,15 @@ $$
 
 * 常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
 
+* 希腊字母：
+$$
+\alpha , \beta , \gamma , \delta , \epsilon , \zeta , \eta , \theta	\\
+\iota , \kappa , \lambda , \mu , \nu , \xi , \omicron , \pi			\\
+\rho , \sigma , \tau , \upsilon , \phi , \chi , \psi , \omega		\\
+\varepsilon , \vartheta , \varkappa , \varpi , \varrho , \varsigma , \varphi		\\
+\Alpha , \Beta , \Gamma , \Delta , \Epsilon , \Zeta , \Eta , \Theta	
+$$
+
   
 
 ## 运算符
