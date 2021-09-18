@@ -140,10 +140,10 @@ $$
 \iota , \kappa , \lambda , \mu , \nu , \xi , \omicron , \pi			\\
 \rho , \sigma , \tau , \upsilon , \phi , \chi , \psi , \omega		\\
 \varepsilon , \vartheta , \varkappa , \varpi , \varrho , \varsigma , \varphi		\\
-\Alpha , \Beta , \Gamma , \Delta , \Epsilon , \Zeta , \Eta , \Theta	
+\Alpha , \Beta , \Gamma , \Delta , \Epsilon , \Zeta , \Eta , \Theta
 $$
+*	花写：	$ \mathcal{A}$
 
-  
 
 ## 运算符
 $$
@@ -189,6 +189,13 @@ $$
 令A_1&=\lbrace 取到的零件来自甲机床\rbrace\\ A_2&=\lbrace取到的零件来自乙机床\rbrace\\ B&=\lbrace取到的零件是废品\rbrace 
 \end{aligned}
 $$
+
+### 公式颜色
+$$
+{\color{Blue}x^2}+{\color{Brown}2x} -{\color{OliveGreen}1}	\\
+	$x_{\color{Red}{1,2}}=\frac{-b\pm\sqrt{{\color{Red}{b^2-4ac}}}}{2a}
+$$
+
 
 
 # 图片
