@@ -203,7 +203,7 @@ $$
 ![](.\images\tiger.jpg)
 
 *	指定尺寸、对齐。
- <img src=".\\images\\tiger.jpg" width = "300" height = "200" alt="图片名称" align= 'right' />
+<img src=".\\images\\tiger.jpg" width = "300" height = "200" alt="图片名称" align= "right"/>
 
- *	指定比例
- <img src=".\\images\\tiger.jpg" width = "50%" height = "50%" alt="图片名称" />
+*	指定比例
+<img src=".\\images\\tiger.jpg" width = "50%" height = "50%" alt="图片名称" />
