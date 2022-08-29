@@ -120,7 +120,12 @@ $$
 1+2+3\\
 	=3+3
 $$
-* 下标：				$ x_i $
+*	公式中插入普通字符串用\mbox{}
+$$
+a,b,c,d,\mbox{Hello world}, e,f,g	\\
+min\|x^2+y\| \quad \mbox{sub to} \quad x>0
+$$
+*	下标：				$ x_i $
 
 * 上标：				$ x^2 $
 
@@ -132,8 +137,8 @@ $$
 
 * 各种帽子：		$ \dot{A},\hat{A}, \widehat{A}, \tilde{A}, \widetilde{A}, \bar{A}, \overbrace{A}, \underbrace{A}, \overset{a}{b}, \underset{a}{b}, \overleftarrow{A}, \overrightarrow{A} $
 
-* 常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
-
+*	常用符号：		$ \leftarrow, \Leftarrow, \Leftrightarrow $
+*	集合符号：	    $ \mathbb{R}, \mathbb{Z}, \emptyset, \in, \notin, \subset, \bigcap $
 * 希腊字母：
 $$
 \alpha , \beta , \gamma , \delta , \epsilon , \zeta , \eta , \theta	\\
@@ -143,6 +148,18 @@ $$
 \Alpha , \Beta , \Gamma , \Delta , \Epsilon , \Zeta , \Eta , \Theta
 $$
 *	花写：	$ \mathcal{A}$
+*	间隔符：\quad：一个字符宽度；\qquad ：两个字符宽度：
+$$
+x+y = 1; \qquad x > 0, \quad y < 0;
+$$
+*	大括号：
+$$
+f(n)=\begin{cases}
+n/2, & \mbox{if   }    n<0 \\
+2n,  & \mbox{if   } n\ge 0
+\end{cases}
+$$
+
 
 
 ## 运算符
@@ -204,6 +221,8 @@ $$
 
 *	指定尺寸、对齐。
 <img src=".\\images\\tiger.jpg" width = "300" height = "200" alt="图片名称" align= "right"/>
+
+<img src=".\\images\\tiger.jpg" width = "300" height = "200" alt="图片名称" align= "middle"/>
 
 *	指定比例
 <img src=".\\images\\tiger.jpg" width = "50%" height = "50%" alt="图片名称" />
